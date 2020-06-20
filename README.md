@@ -1,5 +1,6 @@
 # Machine-Learning
 Linear-Regression using Supervised learning and Unsupervised learning.
+
 **Topics**
 1. Types of supervised learning
 2.Reading data using pandas
@@ -18,6 +19,7 @@ Linear-Regression using Supervised learning and Unsupervised learning.
 
 
 **Resources**
+
 Linear regression:
 
 Longer notebook on linear regression by me
